@@ -157,7 +157,7 @@ var assets = [
     'images/thang12/cabin1.JPG',
     'images/thang12/cabin2.JPG',
     'images/thang12/cabin3.JPG',
-    'images/thang12/cabin4.JPG',
+    'images/thang12/cabin4.jpg',
     'images/thang12/cabin5.JPG',
 ];
 assets.forEach(function(src, index) {
